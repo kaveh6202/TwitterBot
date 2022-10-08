@@ -1,0 +1,12 @@
+C:\dev\TwitterTimelineFeed\TwitterTimelineFeed\TwitterFeed.Domain\obj\Debug\net6.0\TwitterFeed.Infra.csproj.AssemblyReference.cache
+C:\dev\TwitterTimelineFeed\TwitterTimelineFeed\TwitterFeed.Domain\obj\Debug\net6.0\TwitterFeed.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\TwitterTimelineFeed\TwitterTimelineFeed\TwitterFeed.Domain\obj\Debug\net6.0\TwitterFeed.Infra.AssemblyInfoInputs.cache
+C:\dev\TwitterTimelineFeed\TwitterTimelineFeed\TwitterFeed.Domain\obj\Debug\net6.0\TwitterFeed.Infra.AssemblyInfo.cs
+C:\dev\TwitterTimelineFeed\TwitterTimelineFeed\TwitterFeed.Domain\obj\Debug\net6.0\TwitterFeed.Infra.csproj.CoreCompileInputs.cache
+C:\dev\TwitterTimelineFeed\TwitterTimelineFeed\TwitterFeed.Domain\bin\Debug\net6.0\TwitterFeed.Infra.deps.json
+C:\dev\TwitterTimelineFeed\TwitterTimelineFeed\TwitterFeed.Domain\bin\Debug\net6.0\TwitterFeed.Infra.dll
+C:\dev\TwitterTimelineFeed\TwitterTimelineFeed\TwitterFeed.Domain\bin\Debug\net6.0\TwitterFeed.Infra.pdb
+C:\dev\TwitterTimelineFeed\TwitterTimelineFeed\TwitterFeed.Domain\obj\Debug\net6.0\TwitterFeed.Infra.dll
+C:\dev\TwitterTimelineFeed\TwitterTimelineFeed\TwitterFeed.Domain\obj\Debug\net6.0\refint\TwitterFeed.Infra.dll
+C:\dev\TwitterTimelineFeed\TwitterTimelineFeed\TwitterFeed.Domain\obj\Debug\net6.0\TwitterFeed.Infra.pdb
+C:\dev\TwitterTimelineFeed\TwitterTimelineFeed\TwitterFeed.Domain\obj\Debug\net6.0\ref\TwitterFeed.Infra.dll

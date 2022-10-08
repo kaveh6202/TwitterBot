@@ -1,0 +1,15 @@
+C:\dev\TwitterTimelineFeed\TwitterTimelineFeed\TwitterFeed.Bootstrapper\obj\Debug\net6.0\TwitterFeed.Bootstrapper.csproj.AssemblyReference.cache
+C:\dev\TwitterTimelineFeed\TwitterTimelineFeed\TwitterFeed.Bootstrapper\obj\Debug\net6.0\TwitterFeed.Bootstrapper.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\TwitterTimelineFeed\TwitterTimelineFeed\TwitterFeed.Bootstrapper\obj\Debug\net6.0\TwitterFeed.Bootstrapper.AssemblyInfoInputs.cache
+C:\dev\TwitterTimelineFeed\TwitterTimelineFeed\TwitterFeed.Bootstrapper\obj\Debug\net6.0\TwitterFeed.Bootstrapper.AssemblyInfo.cs
+C:\dev\TwitterTimelineFeed\TwitterTimelineFeed\TwitterFeed.Bootstrapper\obj\Debug\net6.0\TwitterFeed.Bootstrapper.csproj.CoreCompileInputs.cache
+C:\dev\TwitterTimelineFeed\TwitterTimelineFeed\TwitterFeed.Bootstrapper\bin\Debug\net6.0\TwitterFeed.Bootstrapper.deps.json
+C:\dev\TwitterTimelineFeed\TwitterTimelineFeed\TwitterFeed.Bootstrapper\bin\Debug\net6.0\TwitterFeed.Bootstrapper.dll
+C:\dev\TwitterTimelineFeed\TwitterTimelineFeed\TwitterFeed.Bootstrapper\bin\Debug\net6.0\TwitterFeed.Bootstrapper.pdb
+C:\dev\TwitterTimelineFeed\TwitterTimelineFeed\TwitterFeed.Bootstrapper\bin\Debug\net6.0\TwitterFeed.Infra.dll
+C:\dev\TwitterTimelineFeed\TwitterTimelineFeed\TwitterFeed.Bootstrapper\bin\Debug\net6.0\TwitterFeed.Infra.pdb
+C:\dev\TwitterTimelineFeed\TwitterTimelineFeed\TwitterFeed.Bootstrapper\obj\Debug\net6.0\TwitterFeed.Bootstrapper.csproj.CopyComplete
+C:\dev\TwitterTimelineFeed\TwitterTimelineFeed\TwitterFeed.Bootstrapper\obj\Debug\net6.0\TwitterFeed.Bootstrapper.dll
+C:\dev\TwitterTimelineFeed\TwitterTimelineFeed\TwitterFeed.Bootstrapper\obj\Debug\net6.0\refint\TwitterFeed.Bootstrapper.dll
+C:\dev\TwitterTimelineFeed\TwitterTimelineFeed\TwitterFeed.Bootstrapper\obj\Debug\net6.0\TwitterFeed.Bootstrapper.pdb
+C:\dev\TwitterTimelineFeed\TwitterTimelineFeed\TwitterFeed.Bootstrapper\obj\Debug\net6.0\ref\TwitterFeed.Bootstrapper.dll

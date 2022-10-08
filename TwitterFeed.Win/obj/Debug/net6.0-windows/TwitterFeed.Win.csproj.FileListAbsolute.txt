@@ -1,0 +1,17 @@
+C:\dev\TwitterTimelineFeed\TwitterTimelineFeed\TwitterFeed.Win\bin\Debug\net6.0-windows\TwitterFeed.Win.exe
+C:\dev\TwitterTimelineFeed\TwitterTimelineFeed\TwitterFeed.Win\bin\Debug\net6.0-windows\TwitterFeed.Win.deps.json
+C:\dev\TwitterTimelineFeed\TwitterTimelineFeed\TwitterFeed.Win\bin\Debug\net6.0-windows\TwitterFeed.Win.runtimeconfig.json
+C:\dev\TwitterTimelineFeed\TwitterTimelineFeed\TwitterFeed.Win\bin\Debug\net6.0-windows\TwitterFeed.Win.dll
+C:\dev\TwitterTimelineFeed\TwitterTimelineFeed\TwitterFeed.Win\bin\Debug\net6.0-windows\TwitterFeed.Win.pdb
+C:\dev\TwitterTimelineFeed\TwitterTimelineFeed\TwitterFeed.Win\obj\Debug\net6.0-windows\TwitterFeed.Win.csproj.AssemblyReference.cache
+C:\dev\TwitterTimelineFeed\TwitterTimelineFeed\TwitterFeed.Win\obj\Debug\net6.0-windows\TwitterFeed.Win.Form1.resources
+C:\dev\TwitterTimelineFeed\TwitterTimelineFeed\TwitterFeed.Win\obj\Debug\net6.0-windows\TwitterFeed.Win.csproj.GenerateResource.cache
+C:\dev\TwitterTimelineFeed\TwitterTimelineFeed\TwitterFeed.Win\obj\Debug\net6.0-windows\TwitterFeed.Win.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\TwitterTimelineFeed\TwitterTimelineFeed\TwitterFeed.Win\obj\Debug\net6.0-windows\TwitterFeed.Win.AssemblyInfoInputs.cache
+C:\dev\TwitterTimelineFeed\TwitterTimelineFeed\TwitterFeed.Win\obj\Debug\net6.0-windows\TwitterFeed.Win.AssemblyInfo.cs
+C:\dev\TwitterTimelineFeed\TwitterTimelineFeed\TwitterFeed.Win\obj\Debug\net6.0-windows\TwitterFeed.Win.csproj.CoreCompileInputs.cache
+C:\dev\TwitterTimelineFeed\TwitterTimelineFeed\TwitterFeed.Win\obj\Debug\net6.0-windows\TwitterFeed.Win.dll
+C:\dev\TwitterTimelineFeed\TwitterTimelineFeed\TwitterFeed.Win\obj\Debug\net6.0-windows\refint\TwitterFeed.Win.dll
+C:\dev\TwitterTimelineFeed\TwitterTimelineFeed\TwitterFeed.Win\obj\Debug\net6.0-windows\TwitterFeed.Win.pdb
+C:\dev\TwitterTimelineFeed\TwitterTimelineFeed\TwitterFeed.Win\obj\Debug\net6.0-windows\TwitterFeed.Win.genruntimeconfig.cache
+C:\dev\TwitterTimelineFeed\TwitterTimelineFeed\TwitterFeed.Win\obj\Debug\net6.0-windows\ref\TwitterFeed.Win.dll

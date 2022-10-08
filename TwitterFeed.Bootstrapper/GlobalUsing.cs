@@ -1,0 +1,13 @@
+﻿global using Tweetinvi;
+global using Tweetinvi.Models;
+global using Tweetinvi.Parameters;
+global using TwitterFeed.Infra.Helper;
+global using TwitterFeed.Infra.Interface;
+global using TwitterFeed.Infra.Models;
+global using Microsoft.Extensions.DependencyInjection;
+global using Microsoft.Extensions.DependencyInjection;
+global using Newtonsoft.Json;
+global using Tweetinvi;
+global using TwitterFeed.Infra.Impl;
+global using TwitterFeed.Infra.Interface;
+global using TwitterFeed.Infra.Models;
